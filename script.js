@@ -104,6 +104,10 @@ const projectsGalleries = {
     "./src/spotify/PrintSpotity4.png",
   ],
   3: [
+    "/src/calculadoraInvestimento/imgCalc1.png",
+    "/src/calculadoraInvestimento/imgCalc2.png",
+  ],
+  4: [
     "./src/jogoDaVelha/PrintTicTacToe1.png",
     "./src/jogoDaVelha/PrintTicTacToe2.png",
     "./src/jogoDaVelha/PrintTicTacToe3.png",
