@@ -98,16 +98,22 @@ const projectsGalleries = {
     "./src/ecommerce/PrintEcommerce12.png",
   ],
   2: [
-    "./src/spotify/PrintSpotity1.png",
-    "./src/spotify/PrintSpotity2.png",
-    "./src/spotify/PrintSpotity3.png",
-    "./src/spotify/PrintSpotity4.png",
+    "./src/apiGitHub/img1.png",
+    "./src/apiGitHub/img2.png",
+    "./src/apiGitHub/img3.png",
+    "./src/apiGitHub/img4.png",
   ],
   3: [
     "/src/calculadoraInvestimento/imgCalc1.png",
     "/src/calculadoraInvestimento/imgCalc2.png",
   ],
   4: [
+    "./src/spotify/PrintSpotity1.png",
+    "./src/spotify/PrintSpotity2.png",
+    "./src/spotify/PrintSpotity3.png",
+    "./src/spotify/PrintSpotity4.png",
+  ],
+  5: [
     "./src/jogoDaVelha/PrintTicTacToe1.png",
     "./src/jogoDaVelha/PrintTicTacToe2.png",
     "./src/jogoDaVelha/PrintTicTacToe3.png",
