@@ -53,7 +53,7 @@ O projeto está disponível: [Portfólio Carlos Moises](https://carlosmoises.net
 <br>
 📞 Contato
 
-LinkedIn: [Carlos Moises](https://www.linkedin.com/in/carlos-moises-211205203/)
+LinkedIn: [Carlos Moises](https://www.linkedin.com/in/carlosmoisesdev/)
 
 GitHub: [@CarlosZeyy](https://github.com/CarlosZeyy)
 
